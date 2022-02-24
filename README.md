@@ -15,6 +15,10 @@ npm install nextauth-cloudinary-provider
 * Add as a provider in `/pages/api/auth/[...nextauth].js` with your configured credentials
 
 ```
+import { Cloudinary } from 'nextauth-cloudinary-provider';
+
+...
+
 providers: [
   Cloudinary({
     clientId: process.env.CLOUDINARY_CLIENT_ID,
