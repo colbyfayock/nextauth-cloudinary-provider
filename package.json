@@ -1,0 +1,23 @@
+{
+  "name": "nextauth-cloudinary-provider",
+  "version": "0.0.1",
+  "description": "Cloudinary provider for NextAuth.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colbyfayock/nextauth-cloudinary-provider.git"
+  },
+  "author": {
+    "name": "Colby Fayock",
+    "email": "hello@colbyfayock.com",
+    "url": "https://twitter.com/colbyfayock"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colbyfayock/nextauth-cloudinary-provider/issues"
+  },
+  "homepage": "https://github.com/colbyfayock/nextauth-cloudinary-provider#readme"
+}
